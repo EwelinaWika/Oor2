@@ -1,0 +1,7 @@
+C:\Users\Ewelina\source\repos\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Ewelina\source\repos\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\Ewelina\source\repos\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Ewelina\source\repos\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\Ewelina\source\repos\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Ewelina\source\repos\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\Ewelina\source\repos\Ex2\Ex2\obj\Debug\Ex2.pdb
